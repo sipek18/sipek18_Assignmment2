@@ -28,6 +28,7 @@ public class EditTeam extends ActionBarActivity implements View.OnClickListener,
 
     public  Team theTeam;
 
+    //Player attributes
     public EditText playerName;
     public EditText playerGoals;
     public EditText playerShotsOnGoal;
